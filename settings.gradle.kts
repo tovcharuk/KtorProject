@@ -1,4 +1,4 @@
-rootProject.name = "ktor-sample"
+rootProject.name = "ktor-rest-task-app"
 
 dependencyResolutionManagement {
     repositories {
